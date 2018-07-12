@@ -1,5 +1,6 @@
 # 说明
->项目使用的是SpringBoot-2.0.3，该版本自带quartz.1.*.*版本没有自带quartz，需手动引入。
+>项目使用的是SpringBoot-2.0.3，该版本自带quartz。
+ SpringBoot-1.*.*版本没有自带quartz，需手动引入。
 
 本项目实现
 * 监听SpringBoot项目启动完成
